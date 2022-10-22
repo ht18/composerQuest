@@ -1,0 +1,16 @@
+{
+    "name": "tuil/composer-quest",
+    "description": "Composer quesst",
+    "autoload": {
+        "psr-4": {
+            "Tuil\\ComposerQuest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Herschel TUIL",
+            "email": "herschel.tuil@gmail.com"
+        }
+    ],
+    "require": {}
+}
